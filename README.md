@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Me llamo Mai Yamawaki.
+-He entrado a este mundo desde hace 2 meses aproximadamente... y me encanta!
+
 <!--
 **maiyamawaki/maiyamawaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
