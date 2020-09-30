@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- Full Stack Developer from Japan...
+- ⚡ I am Mai Yamawaki from Japan.
+- I've learned about the code since this August at Ironhack ...
 
 
 <!--
