@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I am Mai Yamawaki from Japan.
-- I've learned about the code since this August at Ironhack ...
+- I've learned about the code since this August 2020 at Ironhack ...
 
 
 <!--
